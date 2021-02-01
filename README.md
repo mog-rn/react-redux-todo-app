@@ -2,6 +2,7 @@
 <!-- BADGES:START -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 ![CodeQL](https://github.com/Mogakamo/react-redux-todo-app/workflows/CodeQL/badge.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/mogakamo/react-redux-todo-app)
 
 
 ## Contributors ✨
