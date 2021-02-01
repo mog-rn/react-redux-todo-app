@@ -4,6 +4,7 @@
 ![CodeQL](https://github.com/Mogakamo/react-redux-todo-app/workflows/CodeQL/badge.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/mogakamo/react-redux-todo-app)
 ![GitHub top language](https://img.shields.io/github/languages/top/Mogakamo/react-redux-todo-app)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mogakamo/react-redux-todo-app)
 
 
 ## Contributors ✨
