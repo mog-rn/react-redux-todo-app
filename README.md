@@ -6,6 +6,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Mogakamo/react-redux-todo-app)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mogakamo/react-redux-todo-app)
 ![GitHub issues](https://img.shields.io/github/issues/mogakamo/react-redux-todo-app)
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
 
 
 ## Contributors ✨
