@@ -13,4 +13,4 @@ const mapStateToProps = state => {
             return { todos }
 }
 
-export default connect(mapStateToProps)(TodoList);
+export default connect(state => ({ todos: getTodos(state) }))(TodoList);
